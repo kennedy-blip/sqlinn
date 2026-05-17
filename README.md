@@ -28,7 +28,7 @@ The local engine evaluates `SELECT` statements with filtering, grouping, aggrega
 
 - React 19 + TypeScript + Vite
 - Tailwind CSS (via the Vite plugin)
-- `src/lib/database.ts` — relational schema types, sample data generation, DDL and dump generation
+- `src/lib/database.ts` — relational sch ema types, sample data generation, DDL and dump generation
 - `src/lib/sql.ts` — tokenizer, parser, SQL expression evaluator, result projection and joins
 - `src/lib/io.ts` — CSV/JSON parsing, type inference, downloads
 - `src/components/` — studio shell, schema explorer, editor/results, pulse rail, ERD/table builder, import dialog

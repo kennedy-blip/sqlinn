@@ -10,7 +10,7 @@ QueryPulse runs an in-memory relational query engine directly in the browser. Th
 - **Schema Explorer** — browse relations, typed columns, primary keys, foreign keys, row counts, in-memory footprint, and insert a ready-to-run `SELECT *` snippet with one  click.
 - **Schema Designer** — draggable ERD cards with live relationship lines, a column/table blueprint editor, foreign-key ta rgeting, and auto-generated `CREATE TABLE` DDL.
 - **Local ingestion** — import `.csv` or `.json`, infe r column types and primary keys, preview rows, and add the relation to the workspace without uploading anything.
-- **Sovereign workspace tools** — seed the sample dataset, export a complete SQL data dump, and export normalized schema DDL.
+- **Sovereign workspace tools** — seed the sample da taset, export a complete SQL data dump, and export normalized schema DDL.
 
 ## Included sample data
 

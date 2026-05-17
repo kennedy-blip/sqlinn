@@ -22,7 +22,7 @@ QueryPulse runs an in-memory relational query engine directly in the browser. Th
 
 ## SQL support
 
-The local engine evaluates `SELECT` statements with filtering, grouping, aggregates, sorting, limits, scalar functions, `CASE`, aliases, and `INNER` / `LEFT` joins. T he schema studio can commit new table blueprints to the workspace, but this build intentionally keeps the query executor read-only. Unsupported sta tements return a helpful diagnostic rather than touching data.
+The local engine evaluates `SELECT` statements with filtering, grouping, aggregates, sorting, limits, scalar functions, `CASE`, aliases, and `INNER` / `LEFT` joins. T he schema studio can commit new table blueprints to the workspace, but this build intentionally keeps the query executor read-only. Unsupported sta tements retu rn a helpful diagnostic rather than touching data.
 
 ## Architecture
 

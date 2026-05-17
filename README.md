@@ -17,7 +17,7 @@ QueryPulse runs an in-memory relational query engine directly in the browser. Th
 | Relation | Rows | Purp ose |
 | --- | --- | --- |
 | `users` | 184 | Account directory and usage context |
-| `api_logs` | 640 | Edge request telemetry |
+| `api_logs` | 640 | Edge request telemetr y |
 | `embeddings_meta` | 184 | Vector collection registry |
 
 ## SQL support
